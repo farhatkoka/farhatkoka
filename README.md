@@ -2,26 +2,43 @@
   <a href="https://farhatiqbal.in">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-      <img alt="Farhat Iqbal — Systems Operator &amp; Full-Stack Engineer" src="light_mode.svg" width="860">
+      <img alt="Farhat Iqbal — Systems Operator &amp; Full-Stack Engineer" src="light_mode.svg" width="880">
     </picture>
   </a>
 </div>
 
 <br>
 
-### ⚙️ Systems Architecture &amp; Open Source
+### Flagship Systems &amp; Architectures
 
-| Repository | Focus | Stack |
-| :--- | :--- | :--- |
-| [**`edtech-admin-portal`**](https://github.com/farhatkoka/edtech-admin-portal) | Institutional analytics dashboard &amp; batch administration | Next.js (App Router), Prisma ORM, PostgreSQL, Recharts |
-| [**`ecom-site`**](https://github.com/farhatkoka/ecom-site) | High-performance artisanal e-commerce storefront | Next.js, TypeScript, Tailwind CSS |
-| [**`web-invitation`**](https://github.com/farhatkoka/web-invitation) | Interactive responsive event gateway &amp; multimedia card | React, Tailwind CSS, Framer Motion |
+#### 01 / [oorbE](https://github.com/farhatkoka/oorbE)
+`Kotlin` `Android Multi-Module` `Jetpack Compose` `Shizuku IPC` `Biometrics`
+> Enterprise 17-module modular Android architecture featuring privileged Shizuku system-level IPC, biometric vault encryption, and unidirectional reactive state streams.
 
----
+#### 02 / [finbook](https://github.com/farhatkoka/finbook)
+`Kotlin` `Room SQLite` `React PWA` `Supabase` `Offline-First`
+> Dual-runtime financial accounting and ledger engine combining an offline-first native Android core with a cross-platform React PWA and automated invoice reporting.
 
-### 📡 Telemetry &amp; Comms
+#### 03 / [edtech-admin-portal](https://github.com/farhatkoka/edtech-admin-portal)
+`Next.js (App Router)` `Prisma ORM` `PostgreSQL` `Recharts`
+> Full-stack coaching management and institutional analytics dashboard with dynamic batch coordination, session auth, and real-time performance metrics.
 
-- **Workstation Environment**: Arch Linux (`x86_64`, `6.10-zen`), Hyprland (Pure Wayland), Alacritty, Neovim.
-- **Hardware Integrations**: S20+ Exynos custom rig, Samsung Galaxy S8+ peripheral bridge (`scrcpy` / PAM biometrics).
-- **Engineering Mission**: Production reliability, zero-regression full-stack micro-architectures, and technical QA audits.
-- **Direct Contact &amp; Portfolio**: [farhatiqbal.in](https://farhatiqbal.in)
+#### 04 / [ecom-site](https://github.com/farhatkoka/ecom-site)
+`Next.js` `TypeScript` `Tailwind CSS`
+> High-performance artisanal e-commerce storefront engineered for sub-second page transitions, modular cart state isolation, and responsive mobile checkout flows.
+
+#### 05 / [web-invitation](https://github.com/farhatkoka/web-invitation)
+`React` `Tailwind CSS` `Framer Motion`
+> High-fidelity interactive digital event gateway with dynamic multimedia sequences, responsive layout breakpoints, and touch-optimized gestures.
+
+<br>
+
+### Telemetry &amp; Comms
+
+```bash
+Workstation  :: Arch Linux x86_64 (6.10-zen) · Hyprland Wayland · Alacritty
+Tooling      :: Neovim · Bash · Docker · Git
+Core Stack   :: Kotlin · TypeScript · Next.js · Go · Python · PostgreSQL · Prisma
+Eng Mission  :: Production Reliability · Zero-Regression Architectures · SRE Audits
+Direct       :: https://farhatiqbal.in · farhatkoka
+```
