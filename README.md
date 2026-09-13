@@ -13,9 +13,9 @@
 
 | Repository | Focus | Stack |
 | :--- | :--- | :--- |
-| [**`edtech-admin-portal`**](https://github.com/farhatiqbal/edtech-admin-portal) | Institutional analytics dashboard &amp; batch administration | Next.js (App Router), Prisma ORM, PostgreSQL, Recharts |
-| [**`ecom-site`**](https://github.com/farhatiqbal/ecom-site) | High-performance artisanal e-commerce storefront | Next.js, TypeScript, Tailwind CSS |
-| [**`web-invitation`**](https://github.com/farhatiqbal/web-invitation) | Interactive responsive event gateway &amp; multimedia card | React, Tailwind CSS, Framer Motion |
+| [**`edtech-admin-portal`**](https://github.com/farhatkoka/edtech-admin-portal) | Institutional analytics dashboard &amp; batch administration | Next.js (App Router), Prisma ORM, PostgreSQL, Recharts |
+| [**`ecom-site`**](https://github.com/farhatkoka/ecom-site) | High-performance artisanal e-commerce storefront | Next.js, TypeScript, Tailwind CSS |
+| [**`web-invitation`**](https://github.com/farhatkoka/web-invitation) | Interactive responsive event gateway &amp; multimedia card | React, Tailwind CSS, Framer Motion |
 
 ---
 
