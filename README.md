@@ -19,15 +19,19 @@
 `Kotlin` `Room SQLite` `React PWA` `Supabase` `Offline-First`
 > Dual-runtime financial accounting and ledger engine combining an offline-first native Android core with a cross-platform React PWA and automated invoice reporting.
 
-#### 03 / [edtech-admin-portal](https://github.com/farhatkoka/edtech-admin-portal)
+#### 03 / [tui-profile](https://github.com/farhatkoka/tui-profile)
+`Python` `NumPy` `Pillow` `SVG Vector Engine` `Open Source`
+> Pure vector CRT phosphor terminal generator converting any avatar into an adaptive dark/light GitHub profile dashboard with zero external API dependencies.
+
+#### 04 / [edtech-admin-portal](https://github.com/farhatkoka/edtech-admin-portal)
 `Next.js (App Router)` `Prisma ORM` `PostgreSQL` `Recharts`
 > Full-stack coaching management and institutional analytics dashboard with dynamic batch coordination, session auth, and real-time performance metrics.
 
-#### 04 / [ecom-site](https://github.com/farhatkoka/ecom-site)
+#### 05 / [ecom-site](https://github.com/farhatkoka/ecom-site)
 `Next.js` `TypeScript` `Tailwind CSS`
 > High-performance artisanal e-commerce storefront engineered for sub-second page transitions, modular cart state isolation, and responsive mobile checkout flows.
 
-#### 05 / [web-invitation](https://github.com/farhatkoka/web-invitation)
+#### 06 / [web-invitation](https://github.com/farhatkoka/web-invitation)
 `React` `Tailwind CSS` `Framer Motion`
 > High-fidelity interactive digital event gateway with dynamic multimedia sequences, responsive layout breakpoints, and touch-optimized gestures.
 
