@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" fill="none">
+  <defs>
+    <style>
+      .mono {
+        font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+      }
+      .tui {
+        font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
+        font-size: 13px;
+        letter-spacing: 1.1px;
+        white-space: pre;
+      }
+    </style>
+  </defs>
+
+  <!-- Window Canvas -->
+  <rect width="860" height="470" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+
+  <!-- Titlebar -->
+  <rect width="860" height="38" rx="14" fill="#eaeef2"/>
+  <rect y="24" width="860" height="14" fill="#eaeef2"/>
+  <line x1="0" y1="38" x2="860" y2="38" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Window Buttons -->
+  <circle cx="24" cy="19" r="5.5" fill="#cf222e" fill-opacity="0.85"/>
+  <circle cx="42" cy="19" r="5.5" fill="#d4a72c" fill-opacity="0.85"/>
+  <circle cx="60" cy="19" r="5.5" fill="#1a7f37" fill-opacity="0.85"/>
+
+  <!-- Window Title -->
+  <text x="82" y="23" fill="#57606a" font-size="12" class="mono">farhat@archlinux:~</text>
+  <text x="836" y="23" fill="#0969da" font-size="11" text-anchor="end" class="mono">[ arch-zen · hyprland · wayland ]</text>
+
+  <!-- Left Column: TUI Portrait Frame -->
+  <rect x="24" y="54" width="310" height="396" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  
+  <!-- TUI Frame Header -->
+  <line x1="24" y1="76" x2="334" y2="76" stroke="#eaeef2" stroke-width="1"/>
+  <circle cx="36" cy="65" r="3" fill="#0969da"/>
+  <text x="46" y="69" fill="#57606a" font-size="11" class="mono">BUFFER: portrait.tui [ Farhat Iqbal ]</text>
+
+  <!-- TUI Render -->
+  <text class="tui">
+<tspan x="38" y="92.0">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="104.8">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="117.6">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="130.4">&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="143.2">&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="156.0">&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="168.8">&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="181.6">&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;</tspan>
+<tspan x="38" y="194.4">&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;</tspan>
+<tspan x="38" y="207.2">&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#424a53">+</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;</tspan>
+<tspan x="38" y="220.0">&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;</tspan>
+<tspan x="38" y="232.8">&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#424a53">+</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#424a53">+</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="245.6">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#24292f">#</tspan><tspan fill="#424a53">+</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="258.4">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#24292f">#</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#24292f">#</tspan><tspan fill="#24292f">#</tspan><tspan fill="#24292f">#</tspan><tspan fill="#32383f">*</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="271.2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#57606a">:</tspan><tspan fill="#424a53">+</tspan><tspan fill="#24292f">#</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;&#160;</tspan>
+<tspan x="38" y="284.0">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#57606a">:</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;&#160;</tspan>
+<tspan x="38" y="296.8">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan>&#160;&#160;</tspan>
+<tspan x="38" y="309.6">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan></tspan>
+<tspan x="38" y="322.4">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan></tspan>
+<tspan x="38" y="335.2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan></tspan>
+<tspan x="38" y="348.0">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#57606a">:</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan></tspan>
+<tspan x="38" y="360.8">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#424a53">+</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#8c959f">·</tspan><tspan fill="#6e7781">·</tspan><tspan fill="#57606a">:</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#57606a">:</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan></tspan>
+<tspan x="38" y="373.6">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan></tspan>
+<tspan x="38" y="386.4">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan></tspan>
+<tspan x="38" y="399.2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#6e7781">·</tspan><tspan fill="#32383f">*</tspan><tspan fill="#424a53">+</tspan><tspan fill="#424a53">+</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#32383f">*</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#57606a">:</tspan><tspan fill="#424a53">+</tspan></tspan>
+  </text>
+
+  <!-- TUI Frame Footer -->
+  <line x1="24" y1="422" x2="334" y2="422" stroke="#eaeef2" stroke-width="1"/>
+  <text x="179" y="437" fill="#6e7781" font-size="10.5" text-anchor="middle" class="mono">farhatiqbal.in · kashmir</text>
+
+  <!-- Right Column: Specs & Engineering Telemetry -->
+  <!-- Header -->
+  <text x="360" y="80" fill="#1f2328" font-size="20" font-weight="bold" class="mono">FARHAT IQBAL</text>
+  <text x="360" y="98" fill="#0969da" font-size="13" class="mono">Systems Operator &amp; Full-Stack Engineer</text>
+  <text x="360" y="115" fill="#57606a" font-size="11" class="mono">Kashmir, India · <tspan fill="#0969da">https://farhatiqbal.in</tspan></text>
+
+  <line x1="360" y1="128" x2="836" y2="128" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Section 1: Workstation Specs -->
+  <text x="360" y="150" fill="#1a7f37" font-size="11" font-weight="bold" class="mono">// HOST &amp; WORKSTATION TELEMETRY</text>
+  
+  <text x="360" y="174" fill="#57606a" font-size="12" class="mono">OS</text>
+  <text x="450" y="174" fill="#1f2328" font-size="12" class="mono">Arch Linux x86_64 (Kernel: 6.10-zen)</text>
+
+  <text x="360" y="194" fill="#57606a" font-size="12" class="mono">WM / UI</text>
+  <text x="450" y="194" fill="#1f2328" font-size="12" class="mono">Hyprland (Pure Wayland Compositor)</text>
+
+  <text x="360" y="214" fill="#57606a" font-size="12" class="mono">Terminal</text>
+  <text x="450" y="214" fill="#1f2328" font-size="12" class="mono">Bash · Alacritty · Neovim</text>
+
+  <text x="360" y="234" fill="#57606a" font-size="12" class="mono">Hardware</text>
+  <text x="450" y="234" fill="#1f2328" font-size="12" class="mono">S20+ Exynos HDMI Rig · S8+ USB Bridge</text>
+
+  <line x1="360" y1="252" x2="836" y2="252" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Section 2: Core Engineering Architecture -->
+  <text x="360" y="274" fill="#1a7f37" font-size="11" font-weight="bold" class="mono">// ARCHITECTURE &amp; PRODUCTION STACK</text>
+
+  <text x="360" y="298" fill="#57606a" font-size="12" class="mono">Core</text>
+  <text x="450" y="298" fill="#1f2328" font-size="12" class="mono">TypeScript, Next.js (App Router), React</text>
+
+  <text x="360" y="318" fill="#57606a" font-size="12" class="mono">Data/ORM</text>
+  <text x="450" y="318" fill="#1f2328" font-size="12" class="mono">PostgreSQL, Prisma ORM, Supabase</text>
+
+  <text x="360" y="338" fill="#57606a" font-size="12" class="mono">Systems</text>
+  <text x="450" y="338" fill="#1f2328" font-size="12" class="mono">Go, Python, Linux SRE, Crowdsourced QA</text>
+
+  <line x1="360" y1="356" x2="836" y2="356" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Section 3: Open-Source Systems -->
+  <text x="360" y="378" fill="#1a7f37" font-size="11" font-weight="bold" class="mono">// VERIFIED REPOSITORIES</text>
+
+  <text x="360" y="400" fill="#0969da" font-size="12" class="mono">edtech-admin-portal</text>
+  <text x="540" y="400" fill="#57606a" font-size="11" class="mono">Coaching analytics dashboard (Next.js + Prisma)</text>
+
+  <text x="360" y="418" fill="#0969da" font-size="12" class="mono">ecom-site</text>
+  <text x="540" y="418" fill="#57606a" font-size="11" class="mono">High-performance storefront &amp; cart engine</text>
+
+  <!-- Operational Footer Pill -->
+  <rect x="360" y="432" width="476" height="20" rx="4" fill="#dafbe1" stroke="#1a7f37" stroke-width="1"/>
+  <circle cx="372" cy="442" r="3.5" fill="#1a7f37"/>
+  <text x="384" y="446" fill="#1a7f37" font-size="10.5" font-weight="bold" class="mono">STATUS: OPERATIONAL</text>
+  <text x="826" y="446" fill="#57606a" font-size="10" text-anchor="end" class="mono">AVAILABLE FOR SRE &amp; QA AUDITS</text>
+
+</svg>
